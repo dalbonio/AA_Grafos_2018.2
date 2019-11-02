@@ -1,0 +1,412 @@
+	#Starts reading...
+ File:  c-fat200-1.clq
+
+K: 2
+Len1: 100, Len2: 100, Size1: 0, Size2: 2
+best fitness: 12254.000000
+Time Spent: 6.257 segundos
+
+Total Graph Density: 0.077085
+
+P[0]: Edges: 711 - Nodes: 100 - Group density: 0.143636
+P[1]: Edges: 753 - Nodes: 100 - Group density: 0.152121
+
+	#Starts reading...
+ File:  c-fat200-1.clq
+
+K: 3
+Len1: 67, Len2: 66, Size1: 2, Size2: 1
+best fitness: 15674.800000
+Time Spent: 8.452 segundos
+
+Total Graph Density: 0.077085
+
+P[0]: Edges: 446 - Nodes: 67 - Group density: 0.201719
+P[1]: Edges: 461 - Nodes: 67 - Group density: 0.208503
+P[2]: Edges: 520 - Nodes: 66 - Group density: 0.242424
+
+	#Starts reading...
+ File:  c-fat200-1.clq
+
+K: 4
+Len1: 50, Len2: 50, Size1: 0, Size2: 4
+best fitness: 16901.800000
+Time Spent: 9.608 segundos
+
+Total Graph Density: 0.077085
+
+P[0]: Edges: 364 - Nodes: 50 - Group density: 0.297143
+P[1]: Edges: 321 - Nodes: 50 - Group density: 0.262041
+P[2]: Edges: 326 - Nodes: 50 - Group density: 0.266122
+P[3]: Edges: 385 - Nodes: 50 - Group density: 0.314286
+	#Starts reading...
+ File:  c-fat200-1.clq
+
+ Source: Panos Pardalos pardalos@math.ufl.edu
+
+K: 5
+Len1: 40, Len2: 40, Size1: 0, Size2: 5
+best fitness: 17451.100000
+Time Spent: 10.098 segundos
+
+Total Graph Density: 0.077085
+
+P[0]: Edges: 249 - Nodes: 40 - Group density: 0.319231
+P[1]: Edges: 263 - Nodes: 40 - Group density: 0.337179
+P[2]: Edges: 299 - Nodes: 40 - Group density: 0.383333
+P[3]: Edges: 297 - Nodes: 40 - Group density: 0.380769
+P[4]: Edges: 249 - Nodes: 40 - Group density: 0.319231
+	#Starts reading...
+ File:  c-fat200-1.clq
+
+
+K: 6
+Len1: 34, Len2: 33, Size1: 2, Size2: 4
+best fitness: 17757.100000
+Time Spent: 10.412 segundos
+
+Total Graph Density: 0.077085
+
+P[0]: Edges: 233 - Nodes: 34 - Group density: 0.415330
+P[1]: Edges: 248 - Nodes: 34 - Group density: 0.442068
+P[2]: Edges: 201 - Nodes: 33 - Group density: 0.380682
+P[3]: Edges: 238 - Nodes: 33 - Group density: 0.450758
+P[4]: Edges: 203 - Nodes: 33 - Group density: 0.384470
+P[5]: Edges: 202 - Nodes: 33 - Group density: 0.382576
+
+
+----------------------------------------------------------------------------------------
+
+GRAPH G1.CLQ
+
+	#Starts reading...
+ Graph
+
+	datastr:edge
+	datastr:100
+	datastr:471
+
+Graph with (100) vertices and (471) edges.
+Density: 0.09
+	#Finishes reading graph
+K: 2
+Len1: 50, Len2: 50, Size1: 0, Size2: 2
+best fitness: 602.200000
+Time Spent: 1.845 segundos
+Total Graph Density: 0.095152
+
+P[0]: Edges: 170 - Nodes: 50 - Group density: 0.138776
+P[1]: Edges: 167 - Nodes: 50 - Group density: 0.136327
+	
+K: 3
+Len1: 34, Len2: 33, Size1: 1, Size2: 2
+best fitness: 795.600000
+Time Spent: 2.230 segundos
+
+Total Graph Density: 0.095152
+
+P[0]: Edges: 93 - Nodes: 34 - Group density: 0.165775
+P[1]: Edges: 90 - Nodes: 33 - Group density: 0.170455
+P[2]: Edges: 85 - Nodes: 33 - Group density: 0.160985
+	
+K: 4
+Len1: 25, Len2: 25, Size1: 0, Size2: 4
+best fitness: 891.300000
+Time Spent: 2.548 segundos
+
+Total Graph Density: 0.095152
+
+P[0]: Edges: 52 - Nodes: 25 - Group density: 0.173333
+P[1]: Edges: 63 - Nodes: 25 - Group density: 0.210000
+P[2]: Edges: 67 - Nodes: 25 - Group density: 0.223333
+P[3]: Edges: 56 - Nodes: 25 - Group density: 0.186667
+	
+K: 5
+Len1: 20, Len2: 20, Size1: 0, Size2: 5
+best fitness: 947.600000
+Time Spent: 2.732 segundos
+
+Total Graph Density: 0.095152
+
+P[0]: Edges: 47 - Nodes: 20 - Group density: 0.247368
+P[1]: Edges: 44 - Nodes: 20 - Group density: 0.231579
+P[2]: Edges: 44 - Nodes: 20 - Group density: 0.231579
+P[3]: Edges: 37 - Nodes: 20 - Group density: 0.194737
+P[4]: Edges: 43 - Nodes: 20 - Group density: 0.226316
+	
+K: 6
+Len1: 17, Len2: 16, Size1: 4, Size2: 2
+best fitness: 984.700000
+Time Spent: 2.784 segundos
+
+Total Graph Density: 0.095152
+
+P[0]: Edges: 30 - Nodes: 17 - Group density: 0.220588
+P[1]: Edges: 36 - Nodes: 17 - Group density: 0.264706
+P[2]: Edges: 39 - Nodes: 17 - Group density: 0.286765
+P[3]: Edges: 34 - Nodes: 17 - Group density: 0.250000
+P[4]: Edges: 29 - Nodes: 16 - Group density: 0.241667
+P[5]: Edges: 28 - Nodes: 16 - Group density: 0.233333
+
+
+------------------------------------------------------------------------------------------------
+
+GRAPH G2.CLQ
+
+
+K: 2
+Len1: 50, Len2: 50, Size1: 0, Size2: 2
+best fitness: 590.500000
+Time Spent: 1.843 segundos
+
+Total Graph Density: 0.100808
+
+P[0]: Edges: 193 - Nodes: 50 - Group density: 0.157551
+P[1]: Edges: 159 - Nodes: 50 - Group density: 0.129796
+	
+K: 3
+Len1: 34, Len2: 33, Size1: 1, Size2: 2
+best fitness: 779.200000
+Time Spent: 2.240 segundos
+
+Total Graph Density: 0.100808
+
+P[0]: Edges: 91 - Nodes: 34 - Group density: 0.162210
+P[1]: Edges: 89 - Nodes: 33 - Group density: 0.168561
+P[2]: Edges: 105 - Nodes: 33 - Group density: 0.198864
+	
+K: 4
+Len1: 25, Len2: 25, Size1: 0, Size2: 4
+best fitness: 870.600000
+Time Spent: 2.552 segundos
+
+Total Graph Density: 0.100808
+
+P[0]: Edges: 53 - Nodes: 25 - Group density: 0.176667
+P[1]: Edges: 68 - Nodes: 25 - Group density: 0.226667
+P[2]: Edges: 63 - Nodes: 25 - Group density: 0.210000
+P[3]: Edges: 56 - Nodes: 25 - Group density: 0.186667
+
+K: 5
+Len1: 20, Len2: 20, Size1: 0, Size2: 5
+best fitness: 924.500000
+Time Spent: 2.752 segundos
+
+Total Graph Density: 0.100808
+
+P[0]: Edges: 44 - Nodes: 20 - Group density: 0.231579
+P[1]: Edges: 45 - Nodes: 20 - Group density: 0.236842
+P[2]: Edges: 45 - Nodes: 20 - Group density: 0.236842
+P[3]: Edges: 40 - Nodes: 20 - Group density: 0.210526
+P[4]: Edges: 45 - Nodes: 20 - Group density: 0.236842
+	
+K: 6
+Len1: 17, Len2: 16, Size1: 4, Size2: 2
+best fitness: 960.200000
+Time Spent: 2.782 segundos
+
+Total Graph Density: 0.100808
+
+P[0]: Edges: 33 - Nodes: 17 - Group density: 0.242647
+P[1]: Edges: 34 - Nodes: 17 - Group density: 0.250000
+P[2]: Edges: 31 - Nodes: 17 - Group density: 0.227941
+P[3]: Edges: 38 - Nodes: 17 - Group density: 0.279412
+P[4]: Edges: 27 - Nodes: 16 - Group density: 0.225000
+P[5]: Edges: 32 - Nodes: 16 - Group density: 0.266667
+
+-----------------------------------------------------------------------------------
+
+graph p_hat
+
+K: 2
+Len1: 150, Len2: 150, Size1: 0, Size2: 2
+best fitness: 4020.600000
+Time Spent: 15.057 segundos
+
+Total Graph Density: 0.243768
+
+P[0]: Edges: 3215 - Nodes: 150 - Group density: 0.287696
+P[1]: Edges: 2923 - Nodes: 150 - Group density: 0.261566
+
+K: 3
+Len1: 100, Len2: 100, Size1: 0, Size2: 3
+best fitness: 5351.600000
+Time Spent: 20.709 segundos
+
+Total Graph Density: 0.243768
+
+P[0]: Edges: 1523 - Nodes: 100 - Group density: 0.307677
+P[1]: Edges: 1470 - Nodes: 100 - Group density: 0.296970
+P[2]: Edges: 1455 - Nodes: 100 - Group density: 0.293939
+
+K: 4
+Len1: 75, Len2: 75, Size1: 0, Size2: 4
+best fitness: 6013.900000
+Time Spent: 23.239 segundos
+
+Total Graph Density: 0.243768
+
+P[0]: Edges: 892 - Nodes: 75 - Group density: 0.321441
+P[1]: Edges: 867 - Nodes: 75 - Group density: 0.312432
+P[2]: Edges: 881 - Nodes: 75 - Group density: 0.317477
+P[3]: Edges: 931 - Nodes: 75 - Group density: 0.335495
+
+K: 5
+Len1: 60, Len2: 60, Size1: 0, Size2: 5
+best fitness: 6406.500000
+Time Spent: 24.523 segundos
+
+Total Graph Density: 0.243768
+
+P[0]: Edges: 597 - Nodes: 60 - Group density: 0.337288
+P[1]: Edges: 600 - Nodes: 60 - Group density: 0.338983
+P[2]: Edges: 607 - Nodes: 60 - Group density: 0.342938
+P[3]: Edges: 612 - Nodes: 60 - Group density: 0.345763
+P[4]: Edges: 581 - Nodes: 60 - Group density: 0.328249
+
+K: 6
+Len1: 50, Len2: 50, Size1: 0, Size2: 6
+best fitness: 6667.200000
+Time Spent: 25.874 segundos
+
+Total Graph Density: 0.243768
+
+P[0]: Edges: 464 - Nodes: 50 - Group density: 0.378776
+P[1]: Edges: 428 - Nodes: 50 - Group density: 0.349388
+P[2]: Edges: 399 - Nodes: 50 - Group density: 0.325714
+P[3]: Edges: 471 - Nodes: 50 - Group density: 0.384490
+P[4]: Edges: 420 - Nodes: 50 - Group density: 0.342857
+P[5]: Edges: 422 - Nodes: 50 - Group density: 0.344490
+
+
+---------------------------------------------------------
+
+	
+K: 2
+Len1: 63, Len2: 62, Size1: 1, Size2: 1
+best fitness: 443.900000
+Time Spent: 2.713 segundos
+
+Total Graph Density: 0.898452
+
+P[0]: Edges: 1830 - Nodes: 63 - Group density: 0.937020
+P[1]: Edges: 1760 - Nodes: 62 - Group density: 0.930724
+
+
+K: 3
+Len1: 42, Len2: 41, Size1: 2, Size2: 1
+best fitness: 588.900000
+Time Spent: 3.569 segundos
+
+Total Graph Density: 0.898452
+
+P[0]: Edges: 824 - Nodes: 42 - Group density: 0.957027
+P[1]: Edges: 821 - Nodes: 42 - Group density: 0.953542
+P[2]: Edges: 791 - Nodes: 41 - Group density: 0.964634
+	
+K: 4
+Len1: 32, Len2: 31, Size1: 1, Size2: 3
+best fitness: 660.300000
+Time Spent: 3.744 segundos
+
+Total Graph Density: 0.898452
+
+P[0]: Edges: 485 - Nodes: 32 - Group density: 0.977823
+P[1]: Edges: 451 - Nodes: 31 - Group density: 0.969892
+P[2]: Edges: 460 - Nodes: 31 - Group density: 0.989247
+P[3]: Edges: 452 - Nodes: 31 - Group density: 0.972043
+
+Graph with (125) vertices and (6963) edges.
+Density: 0.89
+	#Finishes reading graph
+K: 5
+Len1: 25, Len2: 25, Size1: 0, Size2: 5
+best fitness: 701.800000
+Time Spent: 4.011 segundos
+
+Total Graph Density: 0.898452
+
+P[0]: Edges: 297 - Nodes: 25 - Group density: 0.990000
+P[1]: Edges: 295 - Nodes: 25 - Group density: 0.983333
+P[2]: Edges: 298 - Nodes: 25 - Group density: 0.993333
+P[3]: Edges: 296 - Nodes: 25 - Group density: 0.986667
+P[4]: Edges: 295 - Nodes: 25 - Group density: 0.983333
+
+K: 6
+Len1: 21, Len2: 20, Size1: 5, Size2: 1
+best fitness: 729.100000
+Time Spent: 4.188 segundos
+
+Total Graph Density: 0.898452
+
+P[0]: Edges: 210 - Nodes: 21 - Group density: 1.000000
+P[1]: Edges: 208 - Nodes: 21 - Group density: 0.990476
+P[2]: Edges: 209 - Nodes: 21 - Group density: 0.995238
+P[3]: Edges: 210 - Nodes: 21 - Group density: 1.000000
+P[4]: Edges: 207 - Nodes: 21 - Group density: 0.985714
+P[5]: Edges: 190 - Nodes: 20 - Group density: 1.000000
+
+-------------------------------------------------------
+
+graph brock
+
+K: 2
+Len1: 100, Len2: 100, Size1: 0, Size2: 2
+best fitness: 1296.400000
+Time Spent: 6.430 segundos
+
+Total Graph Density: 0.745427
+
+P[0]: Edges: 3883 - Nodes: 100 - Group density: 0.784444
+P[1]: Edges: 3915 - Nodes: 100 - Group density: 0.790909
+
+
+K: 3
+Len1: 67, Len2: 66, Size1: 2, Size2: 1
+best fitness: 1720.100000
+Time Spent: 8.983 segundos
+
+Total Graph Density: 0.745427
+
+P[0]: Edges: 1805 - Nodes: 67 - Group density: 0.816373
+P[1]: Edges: 1803 - Nodes: 67 - Group density: 0.815468
+P[2]: Edges: 1761 - Nodes: 66 - Group density: 0.820979
+	
+K: 4
+Len1: 50, Len2: 50, Size1: 0, Size2: 4
+best fitness: 1928.200000
+Time Spent: 10.258 segundos
+
+Total Graph Density: 0.745427
+
+P[0]: Edges: 1015 - Nodes: 50 - Group density: 0.828571
+P[1]: Edges: 1046 - Nodes: 50 - Group density: 0.853878
+P[2]: Edges: 1024 - Nodes: 50 - Group density: 0.835918
+P[3]: Edges: 1031 - Nodes: 50 - Group density: 0.841633
+
+K: 5
+Len1: 40, Len2: 40, Size1: 0, Size2: 5
+best fitness: 2052.800000
+Time Spent: 10.435 segundos
+
+Total Graph Density: 0.745427
+
+P[0]: Edges: 682 - Nodes: 40 - Group density: 0.874359
+P[1]: Edges: 666 - Nodes: 40 - Group density: 0.853846
+P[2]: Edges: 685 - Nodes: 40 - Group density: 0.878205
+P[3]: Edges: 663 - Nodes: 40 - Group density: 0.850000
+P[4]: Edges: 666 - Nodes: 40 - Group density: 0.853846
+	
+K: 6
+Len1: 34, Len2: 33, Size1: 2, Size2: 4
+best fitness: 2134.500000
+Time Spent: 10.579 segundos
+
+Total Graph Density: 0.745427
+
+P[0]: Edges: 499 - Nodes: 34 - Group density: 0.889483
+P[1]: Edges: 487 - Nodes: 34 - Group density: 0.868093
+P[2]: Edges: 462 - Nodes: 33 - Group density: 0.875000
+P[3]: Edges: 466 - Nodes: 33 - Group density: 0.882576
+P[4]: Edges: 472 - Nodes: 33 - Group density: 0.893939
+P[5]: Edges: 461 - Nodes: 33 - Group density: 0.873106

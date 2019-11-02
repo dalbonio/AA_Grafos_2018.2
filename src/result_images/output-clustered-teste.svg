@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" baseProfile="full" viewBox="-16 -16 25472 31667">
+	<g />
+	<g>
+		<rect x="12800" y="160" width="12480" height="18640" fill="none" stroke="#008000" stroke-width="350.000000px" />
+	</g>
+	<g>
+		<rect x="12800" y="18960" width="12480" height="12480" fill="none" stroke="#FF00FF" stroke-width="350.000000px" />
+	</g>
+	<g>
+		<rect x="160" y="15992" width="12480" height="12480" fill="none" stroke="#FF0000" stroke-width="350.000000px" />
+	</g>
+	<g>
+		<g>
+			<path fill="none" d=" M3320,19152 L6320,19152 M6320,19152 L6480,19152 M6480,19152 L9480,22120" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M9480,22120 L6480,25088 M6480,25088 L6320,25088 M6320,25088 L3320,25312" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M9480,22120 L9480,25120 M9480,25120 L9480,31600 M9480,31600 L22120,31600 M22120,31600 L22120,31280 M22120,31280 L22120,28280" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M9480,22120 L9480,19120 M9480,19120 L9480,9480 M9480,9480 L12960,9480 M12960,9480 L15960,9480" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M15960,9480 L15960,6480 M15960,6480 L15960,6320 M15960,6320 L15960,3320" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M15960,9480 L15960,12480 M15960,12480 L15960,12640 M15960,12640 L15960,15640" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M15960,9480 L18960,9480 M18960,9480 L22120,9480 M22120,9480 L22120,12640 M22120,12640 L22120,15640" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M22120,28280 L19120,28280 M19120,28280 L18960,28280 M18960,28280 L15960,28280" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M22120,28280 L22120,25280 M22120,25280 L22120,25120 M22120,25120 L22120,22120" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M3320,25312 L3320,22312 M3320,22312 L3320,22152 M3320,22152 L3320,19152" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M9480,22120 L12480,22120 M12480,22120 L19120,22120 M19120,22120 L22120,22120" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M15960,15640 L18960,15640 M18960,15640 L19120,15640 M19120,15640 L22120,15640" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M22120,15640 L22120,18640 M22120,18640 L22120,19120 M22120,19120 L22120,22120" stroke="#808080" stroke-width="100.000000px" />
+		</g>
+	</g>
+	<g>
+		<ellipse cx="3320" cy="19152" rx="750" ry="750" fill="#FF0000" stroke-width="1.000000px" stroke="#000000" />
+		<text x="3320" y="19152" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1</text>
+	</g>
+	<g>
+		<ellipse cx="9480" cy="22120" rx="750" ry="750" fill="#FF0000" stroke-width="1.000000px" stroke="#000000" />
+		<text x="9480" y="22120" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2</text>
+	</g>
+	<g>
+		<ellipse cx="22120" cy="28280" rx="750" ry="750" fill="#FF00FF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="22120" y="28280" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3</text>
+	</g>
+	<g>
+		<ellipse cx="3320" cy="25312" rx="750" ry="750" fill="#FF0000" stroke-width="1.000000px" stroke="#000000" />
+		<text x="3320" y="25312" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4</text>
+	</g>
+	<g>
+		<ellipse cx="15960" cy="9480" rx="750" ry="750" fill="#008000" stroke-width="1.000000px" stroke="#000000" />
+		<text x="15960" y="9480" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5</text>
+	</g>
+	<g>
+		<ellipse cx="15960" cy="3320" rx="750" ry="750" fill="#008000" stroke-width="1.000000px" stroke="#000000" />
+		<text x="15960" y="3320" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6</text>
+	</g>
+	<g>
+		<ellipse cx="15960" cy="15640" rx="750" ry="750" fill="#008000" stroke-width="1.000000px" stroke="#000000" />
+		<text x="15960" y="15640" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7</text>
+	</g>
+	<g>
+		<ellipse cx="22120" cy="15640" rx="750" ry="750" fill="#008000" stroke-width="1.000000px" stroke="#000000" />
+		<text x="22120" y="15640" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">8</text>
+	</g>
+	<g>
+		<ellipse cx="15960" cy="28280" rx="750" ry="750" fill="#FF00FF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="15960" y="28280" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">9</text>
+	</g>
+	<g>
+		<ellipse cx="22120" cy="22120" rx="750" ry="750" fill="#FF00FF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="22120" y="22120" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">10</text>
+	</g>
+</svg>

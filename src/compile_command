@@ -1,0 +1,1 @@
+g++ -I/home/teta/Folder/OGDF/include -O2 dimacs.cpp -o test -L/home/teta/Folder/OGDF/ -lOGDF -lCOIN -g

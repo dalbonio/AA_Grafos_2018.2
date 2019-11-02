@@ -1,0 +1,54 @@
+Total Graph Density: 0.077085
+
+P[0]: Edges: 481 - Nodes: 67 - Group density: 0.217549
+P[1]: Edges: 448 - Nodes: 67 - Group density: 0.202623
+P[2]: Edges: 424 - Nodes: 66 - Group density: 0.197669
+output-c-fat200-1.svg
+
+
+
+Total Graph Density: 0.243768
+
+P[0]: Edges: 1366 - Nodes: 100 - Group density: 0.275960
+P[1]: Edges: 1286 - Nodes: 100 - Group density: 0.259798
+P[2]: Edges: 1088 - Nodes: 100 - Group density: 0.219798
+output-p_hat300-1.svg
+
+
+
+Total Graph Density: 0.745427
+
+P[0]: Edges: 1641 - Nodes: 67 - Group density: 0.742198
+P[1]: Edges: 1646 - Nodes: 67 - Group density: 0.744460
+P[2]: Edges: 1607 - Nodes: 66 - Group density: 0.749184
+output-brock200_1.svg
+
+
+
+Total Graph Density: 0.898452
+
+P[0]: Edges: 781 - Nodes: 42 - Group density: 0.907085
+P[1]: Edges: 776 - Nodes: 42 - Group density: 0.901278
+P[2]: Edges: 735 - Nodes: 41 - Group density: 0.896341
+output-C125.9.svg
+
+
+
+Total Graph Density: 0.095152
+
+P[0]: Edges: 60 - Nodes: 34 - Group density: 0.106952
+P[1]: Edges: 57 - Nodes: 33 - Group density: 0.107955
+P[2]: Edges: 46 - Nodes: 33 - Group density: 0.087121
+output-g1.svg
+
+
+
+Total Graph Density: 0.100808
+
+P[0]: Edges: 75 - Nodes: 34 - Group density: 0.133690
+P[1]: Edges: 64 - Nodes: 33 - Group density: 0.121212
+P[2]: Edges: 55 - Nodes: 33 - Group density: 0.104167
+output-g2.svg
+
+
+
